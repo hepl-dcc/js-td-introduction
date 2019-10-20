@@ -16,7 +16,7 @@
 Une introduction aux bases de Javascript : les types de données, les opérateurs et les expressions, les variables
 
 2. [js-td-basics-2-tests](https://www.github.com/hepl-dcc/js-td-basics-2-tests)  
-Une introduction aux tests en Javascript
+Une introduction aux alternatives en Javascript
 
 3. [js-td-basics-3-boucles-1](https://www.github.com/hepl-dcc/js-td-basics-3-boucles-1)  
 Une introduction aux boucles en Javascript

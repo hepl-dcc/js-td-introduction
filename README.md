@@ -10,7 +10,7 @@
 
 * * *
 
-## Liste des sujets couverts par le TD de JavaScript
+## Liste des sujets couverts par le cours de Travaux Dirigés (TD) de JavaScript
 
 1. [js-td-basics-1-variables](https://www.github.com/hepl-dcc/js-td-basics-1-variables)  
 Une introduction aux bases de Javascript : les types de données, les opérateurs et les expressions, les variables

@@ -15,10 +15,10 @@
 La page GitHub [hepl-dcc](https://github.com/hepl-dcc), qui regroupe la matière et les exercices du cours de **Développement Côté Client** (*JavaScript*), contient un grand nombre de *repositories* [1].
 
 Vous y trouverez généralement
-- un *repo* par séance de cours voire parfois un *repo* par exercice pour la partie TD (Travaux Dirigés) du cours et
-- un *repo* par exercice pour la partie TP (Travaux Pratiques) du cours.
+- un *repo* par séance de cours voire parfois un *repo* par exercice pour la partie TD (*Travaux Dirigés*) du cours ;
+- un *repo* par exercice pour la partie TP (*Travaux Pratiques*) du cours.
 
-GitHub affiche les repos dans l’ordre des modifications les plus récentes, ce qui est pratique en règle générale, mais un peu moins dans notre contexte, où vous suivez un programme de cours progressif.
+GitHub affiche les *repos* dans l’ordre des modifications les plus récentes, ce qui est pratique en règle générale, mais un peu moins dans notre contexte, où vous suivez un programme de cours progressif.
 
 Vous trouverez ci-dessous la liste des repos **dans l’ordre du cours**.
 

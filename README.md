@@ -12,7 +12,7 @@
 
 ## *Développement Côté Client - TD* – Liste des sujets du cours de JavaScript
 
-La page GitHub [hepl-dcc](https://github.com/hepl-dcc), qui regroupe la matière et les exercices du cours de **Développement Côté Client** (*JavaScript*), contient un grand nombre de *repositories* (ou *repos*, des dossiers sur gitHub qui contiennent tous les fichiers nécessaires pour un projet).
+La page GitHub [hepl-dcc](https://github.com/hepl-dcc), qui regroupe la matière et les exercices du cours de **Développement Côté Client** (*JavaScript*), contient un grand nombre de *repositories* [1].
 
 Vous y trouverez généralement
 - un *repo* par séance de cours voire parfois un *repo* par exercice pour la partie TD (Travaux Dirigés) du cours et
@@ -33,3 +33,5 @@ Une introduction aux boucles en Javascript
 
 4. [js-td-basics-4-fonctions](https://www.github.com/hepl-dcc/js-td-basics-4-fonctions)  
 Une introduction aux fonctions en Javascript
+
+[1] : Les *repositories* ou *repos* sont des sortes de dossiers sur gitHub qui contiennent tous les fichiers nécessaires pour un projet.

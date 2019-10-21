@@ -36,4 +36,4 @@ Une introduction aux boucles en Javascript
 4. [js-td-basics-4-fonctions](https://www.github.com/hepl-dcc/js-td-basics-4-fonctions)  
 Une introduction aux fonctions en Javascript
 
-[1] : Les *repositories* ou *repos* sont des sortes de dossiers sur gitHub qui contiennent tous les fichiers nécessaires pour un projet.
+[1] : Les *repositories* ou *repos* sont des sortes de dossiers sur GitHub qui contiennent tous les fichiers nécessaires pour un projet.

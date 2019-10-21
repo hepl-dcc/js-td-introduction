@@ -10,8 +10,6 @@
 
 * * *
 
-## *Développement Côté Client - TD* – Liste des sujets du cours de JavaScript
-
 La page GitHub [hepl-dcc](https://github.com/hepl-dcc), qui regroupe la matière et les exercices du cours de **Développement Côté Client** (*JavaScript*), contient un grand nombre de *repositories* [1].
 
 Vous y trouverez généralement
@@ -20,7 +18,11 @@ Vous y trouverez généralement
 
 GitHub affiche les *repos* dans l’ordre des modifications les plus récentes, ce qui est pratique en règle générale, mais un peu moins dans notre contexte, où vous suivez un programme de cours progressif.
 
-Vous trouverez ci-dessous la liste des repos **dans l’ordre du cours**.
+Ce dépôt est l’endroit destiné à lister les matières couvertes et les exercices réalisés au cours de JavaScript ([**Développement Côté Client**](https://github.com/hepl-dcc)) partie Travaux Dirigés (TD).
+
+## Liste des sujets des TD de JavaScript
+
+Vous trouverez ci-dessous la liste des repos du TD **dans l’ordre du cours**.
 
 1. [js-td-basics-1-variables](https://www.github.com/hepl-dcc/js-td-basics-1-variables)  
 Une introduction aux bases de Javascript : les types de données, les opérateurs et les expressions, les variables

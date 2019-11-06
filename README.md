@@ -36,4 +36,20 @@ Une introduction aux boucles en Javascript
 4. [js-td-basics-4-fonctions](https://www.github.com/hepl-dcc/js-td-basics-4-fonctions)  
 Une introduction aux fonctions en Javascript
 
+5. [js-td-basics-5-tableaux](https://github.com/hepl-dcc/js-td-basics-5-tableaux)  
+Une introduction aux tableaux en Javascript
+
+6. [js-td-basics-6-objets](https://github.com/hepl-dcc/js-td-basics-6-objets)  
+Une introduction aux objets en Javascript
+
+7. [js-td-basics-7-poo](https://github.com/hepl-dcc/js-td-basics-7-poo)  
+Une introduction aux classes et à la POO (Programmation Orientée Objet) en Javascript
+
+8. [js-td-web-1-DOM](https://github.com/hepl-dcc/js-td-web-1-dom)  
+Une introduction au DOM (Document Object Model) en Javascript
+
+9. [js-td-web-2-event](https://github.com/hepl-dcc/js-td-web-2-event)  
+Une introduction à la programmation événementielle en Javascript
+
+
 [1] : Les *repositories* ou *repos* sont des sortes de dossiers sur GitHub qui contiennent tous les fichiers nécessaires pour un projet.
